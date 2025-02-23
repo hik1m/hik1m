@@ -7,7 +7,7 @@ Hi everyone :raised_hands: I am hik1m
 ### :man_technologist: About Me :
 I am Frontend developer
 - 19 y.o
-- in free time i play valorant or dbd
+- in free time i spend my time in games
 
 ### :hammer_and_wrench: Languages and Tools :
 
